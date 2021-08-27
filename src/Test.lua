@@ -3,4 +3,4 @@
 --- Created by zhao.
 --- DateTime: 2021/8/26 16:52
 ---
-print()
+print("")
